@@ -1,0 +1,14 @@
+.card {
+    width: 300px;
+    height: 470px;
+    border: 3px solid white;
+    border-radius: 30px;
+    margin-bottom: 45px;
+}
+
+.img-container {
+    width: 294px;
+    height: 235px;
+    border-radius: 25px 25px 0px 0px;
+    border: 3px solid red;
+}
