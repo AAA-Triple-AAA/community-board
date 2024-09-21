@@ -4,7 +4,7 @@ Submitted by: **Your Name Here**
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total (tally - 5 mins)
+Time spent: **3** hours spent in total
 
 ## Required Features
 
