@@ -1,11 +1,11 @@
 import React from "react";
 import "./Card.css";
 
-const Card = ({ name, category, link }) => {
+const Card = ({ name, category, link, imgRef }) => {
     return (
         <div className="card">
             <div className="img-container">
-                <img src="" alt="" />
+                <img src={imgRef} alt="" height={235} className="image" />
             </div>
             <h5 className="card-name">{name}</h5>
             <h6 className="card-category">{category}</h6>
