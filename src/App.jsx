@@ -32,7 +32,7 @@ const App = () => {
                     imgRef="../public/images/GitHub-Logo.png"
                 />
                 <Card
-                    name="freeCodeCamp Python Tutorials"
+                    name="freeCodeCamp Courses"
                     category="Tutorial"
                     link="https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB&si=7G6HQ6WlesVAPJtn"
                     imgRef="../public/images/freeCodeCamp-Thumbnail.png"
