@@ -1,8 +1,8 @@
-# Web Development Project 1 - _Name of App Here_
+# Web Development Project 1 - _Python Developer Starter Kit (Community Board)_
 
-Submitted by: **Your Name Here**
+Submitted by: **Adrian Abella Acosta**
 
-This web app: **insert description**
+This web app: **serves as a community board for an aspiring Python developer to get and idea about the different software, tools, and resources they can take advantage of as they get started with Python. Each card that contains a short description of the resource also links to the preeminent source for which that resource can be accessed.**
 
 Time spent: **3** hours spent in total
 
@@ -10,27 +10,28 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
--   [ ] **There is a unique theme for events or resources relevant to a specific community**
--   [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+-   [x] **There is a unique theme for events or resources relevant to a specific community**
+-   [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
--   [ ] Buttons or links to a related resources are on each card component
--   [ ] The site is responsive for both desktop and mobile formats
+-   [x] Buttons or links to a related resources are on each card component
+-   [x] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
--   [ ] List anything else that you added to improve the site's functionality!
+-   [x] Restricted the size of the element containing all the cards so that it in regular viewing, the cards are displayed in 2 rows of 5.
+-   [x] Added a Python logo as the browser tab icon.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='public/VideoWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with LiceCap
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -39,11 +40,12 @@ GIF created with ...
 
 ## Notes
 
--   Initially struggled with adding the first test image. Did not show
+-   Initially struggled with adding the first test image. Did not show when contained in assets folder, but did appear when placed in public.
+-   Struggled with positioning the "category" text in each card so it remains uniformly positioned.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Adrian Abella Acosta
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
