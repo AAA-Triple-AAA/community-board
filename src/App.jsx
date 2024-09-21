@@ -33,7 +33,7 @@ const App = () => {
                 />
                 <Card
                     name="freeCodeCamp Courses"
-                    category="Tutorial"
+                    category="Video Tutorials"
                     link="https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB&si=7G6HQ6WlesVAPJtn"
                     imgRef="/images/freeCodeCamp-Thumbnail.png"
                 />
