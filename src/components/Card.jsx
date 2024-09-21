@@ -7,8 +7,8 @@ const Card = ({ name, category, link, imgRef }) => {
             <div className="img-container">
                 <img src={imgRef} alt={imgRef} className="image" />
             </div>
-            <h5 className="card-name">{name}</h5>
-            <h6 className="card-category">{category}</h6>
+            <h3 className="card-name">{name}</h3>
+            <h4 className="card-category">{category}</h4>
             <a href={link} target="_blank" rel="noreferrer noopener">
                 <button className="link-button">LINK 🔗</button>
             </a>
