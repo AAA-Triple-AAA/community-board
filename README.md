@@ -39,7 +39,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+-   Initially struggled with adding the first test image. Did not show
 
 ## License
 
